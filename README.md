@@ -13,6 +13,7 @@ c)	Tournament type
 Under the polynomial approach we shall consider two models with the following outputs:
 
   **Model 1:** Prediction of how many goals the home team scores
+  
   **Model 2:** Prediction of how many goals the away team scores
   
 **2.	Logistic Approach** – Here Feature Engineering will be considered. We will figure out from the home team’s perspective if the game is a Win, Lose or Draw (W, L, D)
